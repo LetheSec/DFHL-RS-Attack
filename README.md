@@ -80,7 +80,7 @@ In a data-free and hard-label setting, the clone model (ResNet18)  obtained by D
 If you find this repository useful for your work, please consider citing it as follows:
 
 ```bibtex
-@inproceedings{yuan2023data,
+@inproceedings{yuan2024data,
   title={Data-Free Hard-Label Robustness Stealing Attack},
   author={Yuan, Xiaojian and Chen, Kejiang and Huang, Wen and Zhang, Jie and Zhang, Weiming and Yu, Nenghai},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
