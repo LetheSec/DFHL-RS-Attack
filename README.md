@@ -1,6 +1,6 @@
 # Data-Free Hard-Label Robustness Stealing Attack
 
-This repo is the official Pytorch implementation for the paper **<a href="">Data-Free Hard-Label Robustness Stealing Attack</a> (AAAI
+This repo is the official Pytorch implementation for the paper **<a href="https://arxiv.org/abs/2312.05924">Data-Free Hard-Label Robustness Stealing Attack</a> (AAAI
 2024)**. 
 
 ![framework](imgs/framework.jpg)
