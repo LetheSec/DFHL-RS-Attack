@@ -70,7 +70,7 @@ To perform DFHL-RS and train the clone model, you can run the following commands
 
 # Results
 
-In a data-free and hard-label setting, the clone model (ResNet18)  obtained by DFHL-RS can achieve **a robustness accuracy of 39.51 under AutoAttack**.
+In a data-free and hard-label setting, the clone model (ResNet18)  obtained by DFHL-RS can achieve **a robustness accuracy of 39.51% under AutoAttack**.
 
 ![examples](imgs/results.png)
 
