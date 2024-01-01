@@ -8,7 +8,7 @@ This repo is the official Pytorch implementation for the paper **<a href="https:
 
 # Preparation
 
-Pleease download the checkpoints for the target models from:
+Please download the checkpoints for the target models from:
 
 [[Google Driver]](https://drive.google.com/drive/folders/1kBEcSe0BLu6l2rD3f6ZbK9_n0GhqUSqz?usp=sharing)  [[百度网盘(2rq8)]](https://pan.baidu.com/s/1u3zoAx-WpyCNWEvktMGZAw?pwd=2rq8) 
 
